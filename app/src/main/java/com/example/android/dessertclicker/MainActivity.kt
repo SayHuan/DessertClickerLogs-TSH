@@ -58,6 +58,7 @@ class MainActivity : AppCompatActivity() {
     private var dessertsSold = 0
     private lateinit var dessertTimer: DessertTimer;
 
+    //...
     // Contains all the views
     private lateinit var binding: ActivityMainBinding
 
